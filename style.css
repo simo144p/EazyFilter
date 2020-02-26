@@ -1,0 +1,20 @@
+body {
+  background-color: grey;
+}
+
+p[class='elev'] {
+  front-style: italic;
+  font-size: 200%;
+  color: white;
+  background-color: black;
+  Text-align: center;
+}
+
+
+h1 {
+   text-decoration: underline;
+}
+  
+section p em {
+  color: blue;3
+}
